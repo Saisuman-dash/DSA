@@ -5,7 +5,6 @@ class Solution:
         rightSum=[0]*n
         net = 0
         answer=[0]*n
-        
         for i in range(0,n):
             leftSum[i]=net
             net = net+nums[i]
