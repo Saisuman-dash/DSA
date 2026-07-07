@@ -1,21 +1,19 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        map = { '(' : ')',
+        mapi = { '(' : ')',
                 '[' : ']',
                 '{' : '}'
         }
         stack = []
         for i in s:
-            if i in map:
+            if i in mapi:
                 stack.append(i)
-            elif i in map.values():
+            elif i in mapi.values():
                 if stack:
                     e = stack.pop()
                 else:
                     return False
-                if map[e] == i:
-                    continue
-                else:
+                if mapi[e] != i:
                     return False
         if len(stack)==0:
             return True
