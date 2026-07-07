@@ -8,11 +8,10 @@ class Solution:
         for i in s:
             if i in mapi:
                 stack.append(i)
-            elif i in mapi.values():
-                if stack:
-                    e = stack.pop()
-                else:
+            else:
+                if not stack:
                     return False
+                e = stack.pop()
                 if mapi[e] != i:
                     return False
         if len(stack)==0:
