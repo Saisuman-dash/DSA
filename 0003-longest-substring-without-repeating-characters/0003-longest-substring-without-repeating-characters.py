@@ -4,13 +4,13 @@ class Solution:
         self.maxi=1
         self.s=s
         self.n=len(self.s)
-        self.lst=[]
+        self.lst=set()
         if not self.n:
             return 0
         for i in range(0,self.n):
             j = i
             while j<self.n and self.s[j] not in self.lst:
-                self.lst.append(self.s[j])
+                self.lst.add(self.s[j])
                 j+=1
             self.count = len(self.lst)
             self.maxi = max(self.count,self.maxi)
