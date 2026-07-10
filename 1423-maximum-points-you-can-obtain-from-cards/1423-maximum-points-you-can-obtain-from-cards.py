@@ -16,7 +16,6 @@ class Solution:
             maxi = max(maxi,sum)
         left -=1
         for i in range (0,k):
-            
             sum = sum-cardPoints[left]+cardPoints[right]
             maxi = max(maxi,sum)
             left -= 1
