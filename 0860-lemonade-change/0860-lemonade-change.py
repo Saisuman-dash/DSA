@@ -19,7 +19,7 @@ class Solution:
                         income[5]-=3
                         income[20]+=1
                 else:
-                    toret = False
+                    return False
         return toret
             
 
