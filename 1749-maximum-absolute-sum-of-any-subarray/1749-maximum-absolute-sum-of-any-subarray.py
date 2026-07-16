@@ -18,8 +18,8 @@ class Solution:
             bestendmin=min(v1,v2)
             ansmin=min(ansmin,bestendmin)
 
-            ans=max(ansmax,abs(ansmin))
+            
         if ansmax<0:
             return abs(ansmax)
-
+        ans=max(ansmax,abs(ansmin))
         return ans
