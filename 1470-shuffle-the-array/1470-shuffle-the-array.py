@@ -1,16 +1,13 @@
 class Solution:
     def shuffle(self, nums: List[int], n: int) -> List[int]:
         ans=[0]*len(nums)
-        x=nums[:n]
-        y=nums[n:]
-        px=0
-        py=0
-
+        x=0
+        y=n
         for i in range (len(nums)):
-            if i%2==0 :
-                ans[i]=x[px]
-                px+=1
+            if i%2==0  :
+                ans[i]=nums[x]
+                x+=1
             elif i%2 !=0:
-                ans[i]=y[py]
-                py+=1
+                ans[i]=nums[y]
+                y+=1
         return ans
