@@ -43,6 +43,7 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Saisuman-dash/DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Saisuman-dash/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,4 +55,20 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Saisuman-dash/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Saisuman-dash/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Saisuman-dash/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Saisuman-dash/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Saisuman-dash/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Saisuman-dash/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 <!---LeetCode Topics End-->
