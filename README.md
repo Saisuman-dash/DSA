@@ -58,6 +58,7 @@ Leetcoding until i turn into a complete green flag on leetcode.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Saisuman-dash/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saisuman-dash/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Saisuman-dash/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## String
