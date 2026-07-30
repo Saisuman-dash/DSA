@@ -58,10 +58,12 @@ Leetcoding until i turn into a complete green flag on leetcode.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saisuman-dash/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Saisuman-dash/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saisuman-dash/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Saisuman-dash/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -71,4 +73,8 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Saisuman-dash/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saisuman-dash/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 <!---LeetCode Topics End-->
