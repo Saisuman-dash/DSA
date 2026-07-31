@@ -41,10 +41,12 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Saisuman-dash/DSA/tree/main/0075-sort-colors/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saisuman-dash/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Saisuman-dash/DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saisuman-dash/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Saisuman-dash/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -68,6 +70,7 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saisuman-dash/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saisuman-dash/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Saisuman-dash/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -76,9 +79,11 @@ Leetcoding until i turn into a complete green flag on leetcode.
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saisuman-dash/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Saisuman-dash/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saisuman-dash/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saisuman-dash/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 <!---LeetCode Topics End-->
