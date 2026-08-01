@@ -86,4 +86,8 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saisuman-dash/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saisuman-dash/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Saisuman-dash/DSA/tree/main/0092-reverse-linked-list-ii/) | Medium |
 <!---LeetCode Topics End-->
