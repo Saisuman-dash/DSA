@@ -9,6 +9,7 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | [0075-sort-colors](https://github.com/Saisuman-dash/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saisuman-dash/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Saisuman-dash/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0877-stone-game](https://github.com/Saisuman-dash/DSA/tree/main/0877-stone-game/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Saisuman-dash/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Saisuman-dash/DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
@@ -29,6 +30,7 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Saisuman-dash/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0877-stone-game](https://github.com/Saisuman-dash/DSA/tree/main/0877-stone-game/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +66,7 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Saisuman-dash/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Saisuman-dash/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0877-stone-game](https://github.com/Saisuman-dash/DSA/tree/main/0877-stone-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saisuman-dash/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Saisuman-dash/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## String
@@ -90,4 +93,8 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Saisuman-dash/DSA/tree/main/0092-reverse-linked-list-ii/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Saisuman-dash/DSA/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
