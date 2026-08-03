@@ -23,6 +23,7 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saisuman-dash/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0278-first-bad-version](https://github.com/Saisuman-dash/DSA/tree/main/0278-first-bad-version/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Saisuman-dash/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Saisuman-dash/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Saisuman-dash/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -97,4 +98,8 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Saisuman-dash/DSA/tree/main/0877-stone-game/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Saisuman-dash/DSA/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
