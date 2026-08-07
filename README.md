@@ -10,6 +10,7 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | [0075-sort-colors](https://github.com/Saisuman-dash/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Saisuman-dash/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saisuman-dash/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Saisuman-dash/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0525-contiguous-array](https://github.com/Saisuman-dash/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Saisuman-dash/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Saisuman-dash/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -73,6 +74,7 @@ Leetcoding until i turn into a complete green flag on leetcode.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Saisuman-dash/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0525-contiguous-array](https://github.com/Saisuman-dash/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Saisuman-dash/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Saisuman-dash/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
