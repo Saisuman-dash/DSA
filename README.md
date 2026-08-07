@@ -10,6 +10,7 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | [0075-sort-colors](https://github.com/Saisuman-dash/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Saisuman-dash/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saisuman-dash/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0525-contiguous-array](https://github.com/Saisuman-dash/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Saisuman-dash/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Saisuman-dash/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Saisuman-dash/DSA/tree/main/0724-find-pivot-index/) | Easy |
@@ -57,6 +58,7 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saisuman-dash/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0242-valid-anagram](https://github.com/Saisuman-dash/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0525-contiguous-array](https://github.com/Saisuman-dash/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Saisuman-dash/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Saisuman-dash/DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saisuman-dash/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -71,6 +73,7 @@ Leetcoding until i turn into a complete green flag on leetcode.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0525-contiguous-array](https://github.com/Saisuman-dash/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Saisuman-dash/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Saisuman-dash/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Saisuman-dash/DSA/tree/main/0724-find-pivot-index/) | Easy |
