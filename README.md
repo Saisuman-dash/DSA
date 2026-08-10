@@ -137,4 +137,8 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Saisuman-dash/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0868-binary-gap](https://github.com/Saisuman-dash/DSA/tree/main/0868-binary-gap/) | Easy |
 <!---LeetCode Topics End-->
