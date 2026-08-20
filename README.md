@@ -40,6 +40,7 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Saisuman-dash/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Saisuman-dash/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/Saisuman-dash/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Saisuman-dash/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0877-stone-game](https://github.com/Saisuman-dash/DSA/tree/main/0877-stone-game/) | Medium |
 ## Stack
@@ -87,6 +88,7 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Saisuman-dash/DSA/tree/main/0007-reverse-integer/) | Medium |
+| [0070-climbing-stairs](https://github.com/Saisuman-dash/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Saisuman-dash/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0877-stone-game](https://github.com/Saisuman-dash/DSA/tree/main/0877-stone-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saisuman-dash/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -148,4 +150,8 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Saisuman-dash/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Saisuman-dash/DSA/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
