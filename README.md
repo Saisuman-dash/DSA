@@ -19,6 +19,7 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | [0877-stone-game](https://github.com/Saisuman-dash/DSA/tree/main/0877-stone-game/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Saisuman-dash/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Saisuman-dash/DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Saisuman-dash/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,4 +144,8 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0868-binary-gap](https://github.com/Saisuman-dash/DSA/tree/main/0868-binary-gap/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Saisuman-dash/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 <!---LeetCode Topics End-->
