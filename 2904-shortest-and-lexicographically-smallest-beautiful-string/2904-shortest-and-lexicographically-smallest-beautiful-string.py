@@ -24,7 +24,15 @@ class Solution(object):
             right+=1
         if len(ansu)==0:
             return ""
-        return min(ansu, key=lambda x: (len(x), x))
+        # return min(ansu, key=lambda x: (len(x), x))
+        best=ansu[0]
+        for c in ansu:
+            if len(c)<len(best):
+                best=c
+            elif len(c)==len(best) and c<best:
+                best=c
+        return best
+
         
         
 
