@@ -75,6 +75,7 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | [0713-subarray-product-less-than-k](https://github.com/Saisuman-dash/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Saisuman-dash/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Saisuman-dash/DSA/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Saisuman-dash/DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saisuman-dash/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0242-valid-anagram](https://github.com/Saisuman-dash/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Saisuman-dash/DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saisuman-dash/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saisuman-dash/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/Saisuman-dash/DSA/tree/main/3280-convert-date-to-binary/) | Easy |
