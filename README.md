@@ -12,6 +12,7 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | [0075-sort-colors](https://github.com/Saisuman-dash/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Saisuman-dash/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Saisuman-dash/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saisuman-dash/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saisuman-dash/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Saisuman-dash/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0525-contiguous-array](https://github.com/Saisuman-dash/DSA/tree/main/0525-contiguous-array/) | Medium |
@@ -34,6 +35,7 @@ Leetcoding until i turn into a complete green flag on leetcode.
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Saisuman-dash/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saisuman-dash/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saisuman-dash/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saisuman-dash/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0278-first-bad-version](https://github.com/Saisuman-dash/DSA/tree/main/0278-first-bad-version/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Saisuman-dash/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
